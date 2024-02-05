@@ -9,7 +9,7 @@ Design Patterns: Implement various design patterns including Singleton, Proxy, F
 Getting Started
 Follow these steps to set up and run the Warehouse Management System on your local machine:
 
-#Prerequisites
+Prerequisites
 Java installed
 IntelliJ IDEA or any Java IDE of your choice
 SQLite for database management
